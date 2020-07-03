@@ -1,2 +1,3 @@
-##Spring Boot Applications
+## Spring Boot Applications
+
 This repository consists list of spring-boot application with different dependencies like spring-mvc without db, spring-mvc with db (h2, postgresql), spring-mvc with db and spa, and many such applications in backend. 
